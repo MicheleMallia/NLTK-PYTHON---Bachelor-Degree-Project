@@ -1,0 +1,121 @@
+
+
+Top 5 delle parole simili a Piccio:
+
+
+	 La parola: Baracca 		distanza:  6
+	 La parola: Baracchini 		distanza:  7
+	 La parola: Duca d Aosta 		distanza:  10
+	 La parola: Yohu Maroth 		distanza:  10
+	 La parola: Silvio Scaroni 		distanza:  11
+
+
+
+
+Top 5 delle parole simili a Silvio Scaroni:
+
+
+	 La parola: Yohu Maroth 		distanza:  10
+	 La parola: Piccio 		distanza:  11
+	 La parola: Baracchini 		distanza:  11
+	 La parola: Diaz 		distanza:  12
+	 La parola: Baracca 		distanza:  12
+
+
+
+
+Top 5 delle parole simili a Duca d Aosta:
+
+
+	 La parola: Piccio 		distanza:  10
+	 La parola: Diaz 		distanza:  10
+	 La parola: Baracca 		distanza:  10
+	 La parola: Baracchini 		distanza:  11
+	 La parola: Silvio Scaroni 		distanza:  13
+
+
+
+
+Top 5 delle parole simili a Franchet d Espery:
+
+
+	 La parola: Baracchini 		distanza:  14
+	 La parola: Yohu Maroth 		distanza:  15
+	 La parola: Baracca 		distanza:  15
+	 La parola: Piccio 		distanza:  16
+	 La parola: Silvio Scaroni 		distanza:  16
+
+
+
+
+Top 5 delle parole simili a Diaz:
+
+
+	 La parola: Baracca 		distanza:  6
+	 La parola: Baracchini 		distanza:  9
+	 La parola: Duca d Aosta 		distanza:  10
+	 La parola: Yohu Maroth 		distanza:  10
+	 La parola: Silvio Scaroni 		distanza:  12
+
+
+
+
+Top 5 delle parole simili a Rouillet Pastorile Meletta Davanti:
+
+
+	 La parola: Silvio Scaroni 		distanza:  27
+	 La parola: Duca d Aosta 		distanza:  29
+	 La parola: Franchet d Espery 		distanza:  29
+	 La parola: Yohu Maroth 		distanza:  29
+	 La parola: Baracchini 		distanza:  29
+
+
+
+
+Top 5 delle parole simili a Yohu Maroth:
+
+
+	 La parola: Piccio 		distanza:  10
+	 La parola: Silvio Scaroni 		distanza:  10
+	 La parola: Diaz 		distanza:  10
+	 La parola: Baracca 		distanza:  10
+	 La parola: Baracchini 		distanza:  11
+
+
+
+
+Top 5 delle parole simili a Baracchini:
+
+
+	 La parola: Piccio 		distanza:  7
+	 La parola: Fulvio Baracchini 		distanza:  7
+	 La parola: Diaz 		distanza:  9
+	 La parola: Silvio Scaroni 		distanza:  11
+	 La parola: Duca d Aosta 		distanza:  11
+
+
+
+
+Top 5 delle parole simili a Baracca:
+
+
+	 La parola: Piccio 		distanza:  6
+	 La parola: Diaz 		distanza:  6
+	 La parola: Duca d Aosta 		distanza:  10
+	 La parola: Yohu Maroth 		distanza:  10
+	 La parola: Fulvio Baracchini 		distanza:  11
+
+
+
+
+Top 5 delle parole simili a Fulvio Baracchini:
+
+
+	 La parola: Silvio Scaroni 		distanza:  9
+	 La parola: Baracca 		distanza:  11
+	 La parola: Piccio 		distanza:  13
+	 La parola: Yohu Maroth 		distanza:  13
+	 La parola: Duca d Aosta 		distanza:  15
+
+
+2.96622896194

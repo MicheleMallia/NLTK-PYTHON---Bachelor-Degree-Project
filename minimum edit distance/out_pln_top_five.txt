@@ -1,0 +1,145 @@
+
+
+Top 5 delle parole simili a Albatros:
+
+
+	 La parola: Caproni 		distanza:  6
+	 La parola: Savoia 		distanza:  7
+	 La parola: Farman 		distanza:  7
+	 La parola: Draken 		distanza:  7
+	 La parola: Drachen 		distanza:  7
+
+
+
+
+Top 5 delle parole simili a L 75:
+
+
+	 La parola: Savoia 		distanza:  6
+	 La parola: Farman 		distanza:  6
+	 La parola: Draken 		distanza:  6
+	 La parola: Voisin 		distanza:  6
+	 La parola: Drachen 		distanza:  7
+
+
+
+
+Top 5 delle parole simili a M 2:
+
+
+	 La parola: Savoia 		distanza:  6
+	 La parola: Farman 		distanza:  6
+	 La parola: Draken 		distanza:  6
+	 La parola: Voisin 		distanza:  6
+	 La parola: Drachen 		distanza:  7
+
+
+
+
+Top 5 delle parole simili a Savoia:
+
+
+	 La parola: Voisin 		distanza:  5
+	 La parola: Caproni 		distanza:  5
+	 La parola: L 75 		distanza:  6
+	 La parola: M 2 		distanza:  6
+	 La parola: Draken 		distanza:  6
+
+
+
+
+Top 5 delle parole simili a Farman:
+
+
+	 La parola: Draken 		distanza:  5
+	 La parola: Voisin 		distanza:  5
+	 La parola: Drachen 		distanza:  5
+	 La parola: Caproni 		distanza:  5
+	 La parola: Dracken 		distanza:  5
+
+
+
+
+Top 5 delle parole simili a Draken:
+
+
+	 La parola: Drachen 		distanza:  2
+	 La parola: Farman 		distanza:  5
+	 La parola: Voisin 		distanza:  5
+	 La parola: L 75 		distanza:  6
+	 La parola: M 2 		distanza:  6
+
+
+
+
+Top 5 delle parole simili a Voisin:
+
+
+	 La parola: Farman 		distanza:  5
+	 La parola: Draken 		distanza:  5
+	 La parola: Aviatik 		distanza:  5
+	 La parola: L 75 		distanza:  6
+	 La parola: M 2 		distanza:  6
+
+
+
+
+Top 5 delle parole simili a Drachen:
+
+
+	 La parola: Draken 		distanza:  2
+	 La parola: Farman 		distanza:  5
+	 La parola: Savoia 		distanza:  6
+	 La parola: Voisin 		distanza:  6
+	 La parola: Caproni 		distanza:  6
+
+
+
+
+Top 5 delle parole simili a Aviatik:
+
+
+	 La parola: Voisin 		distanza:  5
+	 La parola: Savoia 		distanza:  6
+	 La parola: Draken 		distanza:  6
+	 La parola: L 75 		distanza:  7
+	 La parola: M 2 		distanza:  7
+
+
+
+
+Top 5 delle parole simili a Caproni:
+
+
+	 La parola: Farman 		distanza:  5
+	 La parola: Albatros 		distanza:  6
+	 La parola: Draken 		distanza:  6
+	 La parola: Voisin 		distanza:  6
+	 La parola: Drachen 		distanza:  6
+
+
+
+
+Top 5 delle parole simili a Nieuport:
+
+
+	 La parola: Caproni 		distanza:  7
+	 La parola: Albatros 		distanza:  8
+	 La parola: L 75 		distanza:  8
+	 La parola: M 2 		distanza:  8
+	 La parola: Farman 		distanza:  8
+
+
+
+
+Top 5 delle parole simili a Dracken:
+
+
+	 La parola: Drachen 		distanza:  1
+	 La parola: Farman 		distanza:  5
+	 La parola: Savoia 		distanza:  6
+	 La parola: Voisin 		distanza:  6
+	 La parola: Caproni 		distanza:  6
+
+
+2.31447196007

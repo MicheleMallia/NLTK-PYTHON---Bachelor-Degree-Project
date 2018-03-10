@@ -1,0 +1,229 @@
+
+
+Top 5 delle parole simili a Garibaldi:
+
+
+	 La parola: Pisani 		distanza:  6
+	 La parola: Papin 		distanza:  7
+	 La parola: Varese 		distanza:  7
+	 La parola: Tatra 		distanza:  7
+	 La parola: Turbine 		distanza:  7
+
+
+
+
+Top 5 delle parole simili a Novara:
+
+
+	 La parola: Pisani 		distanza:  5
+	 La parola: Medusa 		distanza:  5
+	 La parola: U 11 		distanza:  6
+	 La parola: U 12 		distanza:  6
+	 La parola: Papin 		distanza:  6
+
+
+
+
+Top 5 delle parole simili a U 11:
+
+
+	 La parola: U 3 		distanza:  2
+	 La parola: S 		distanza:  4
+	 La parola: Papin 		distanza:  5
+	 La parola: Tatra 		distanza:  5
+	 La parola: Novara 		distanza:  6
+
+
+
+
+Top 5 delle parole simili a Helgoland:
+
+
+	 La parola: Pisani 		distanza:  7
+	 La parola: Medusa 		distanza:  7
+	 La parola: Garibaldi 		distanza:  8
+	 La parola: Papin 		distanza:  8
+	 La parola: Amalfi 		distanza:  8
+
+
+
+
+Top 5 delle parole simili a U 12:
+
+
+	 La parola: U 3 		distanza:  2
+	 La parola: S 		distanza:  4
+	 La parola: Papin 		distanza:  5
+	 La parola: Tatra 		distanza:  5
+	 La parola: Novara 		distanza:  6
+
+
+
+
+Top 5 delle parole simili a Papin:
+
+
+	 La parola: Tatra 		distanza:  4
+	 La parola: U 11 		distanza:  5
+	 La parola: U 12 		distanza:  5
+	 La parola: Amalfi 		distanza:  5
+	 La parola: U 3 		distanza:  5
+
+
+
+
+Top 5 delle parole simili a Amalfi:
+
+
+	 La parola: Pisani 		distanza:  5
+	 La parola: Tatra 		distanza:  5
+	 La parola: Garibaldi 		distanza:  6
+	 La parola: Novara 		distanza:  6
+	 La parola: U 11 		distanza:  6
+
+
+
+
+Top 5 delle parole simili a Scharfsch:
+
+
+	 La parola: Novara 		distanza:  7
+	 La parola: Amalfi 		distanza:  7
+	 La parola: Papin 		distanza:  8
+	 La parola: Zeffiro 		distanza:  8
+	 La parola: Pisani 		distanza:  8
+
+
+
+
+Top 5 delle parole simili a Zeffiro:
+
+
+	 La parola: Papin 		distanza:  6
+	 La parola: Amalfi 		distanza:  6
+	 La parola: Tatra 		distanza:  6
+	 La parola: Medusa 		distanza:  6
+	 La parola: Turbine 		distanza:  6
+
+
+
+
+Top 5 delle parole simili a U 3:
+
+
+	 La parola: U 12 		distanza:  2
+	 La parola: S 		distanza:  3
+	 La parola: Papin 		distanza:  5
+	 La parola: Tatra 		distanza:  5
+	 La parola: Novara 		distanza:  6
+
+
+
+
+Top 5 delle parole simili a Pisani:
+
+
+	 La parola: Novara 		distanza:  5
+	 La parola: Amalfi 		distanza:  5
+	 La parola: Garibaldi 		distanza:  6
+	 La parola: U 11 		distanza:  6
+	 La parola: U 12 		distanza:  6
+
+
+
+
+Top 5 delle parole simili a Czepel:
+
+
+	 La parola: Varese 		distanza:  5
+	 La parola: Novara 		distanza:  6
+	 La parola: U 11 		distanza:  6
+	 La parola: U 12 		distanza:  6
+	 La parola: Amalfi 		distanza:  6
+
+
+
+
+Top 5 delle parole simili a S:
+
+
+	 La parola: U 11 		distanza:  4
+	 La parola: U 12 		distanza:  4
+	 La parola: Papin 		distanza:  5
+	 La parola: Tatra 		distanza:  5
+	 La parola: Novara 		distanza:  6
+
+
+
+
+Top 5 delle parole simili a Varese:
+
+
+	 La parola: Czepel 		distanza:  5
+	 La parola: Tatra 		distanza:  5
+	 La parola: Medusa 		distanza:  5
+	 La parola: Turbine 		distanza:  5
+	 La parola: Novara 		distanza:  6
+
+
+
+
+Top 5 delle parole simili a Tatra:
+
+
+	 La parola: Papin 		distanza:  4
+	 La parola: U 11 		distanza:  5
+	 La parola: U 12 		distanza:  5
+	 La parola: Amalfi 		distanza:  5
+	 La parola: U 3 		distanza:  5
+
+
+
+
+Top 5 delle parole simili a Maria Grazia:
+
+
+	 La parola: Novara 		distanza:  9
+	 La parola: Pisani 		distanza:  9
+	 La parola: Tatra 		distanza:  9
+	 La parola: Papin 		distanza:  10
+	 La parola: Amalfi 		distanza:  10
+
+
+
+
+Top 5 delle parole simili a Medusa:
+
+
+	 La parola: Varese 		distanza:  5
+	 La parola: Tatra 		distanza:  5
+	 La parola: U 11 		distanza:  6
+	 La parola: U 12 		distanza:  6
+	 La parola: Papin 		distanza:  6
+
+
+
+
+Top 5 delle parole simili a Turbine:
+
+
+	 La parola: Varese 		distanza:  5
+	 La parola: Zeffiro 		distanza:  6
+	 La parola: Pisani 		distanza:  6
+	 La parola: Tatra 		distanza:  6
+	 La parola: Garibaldi 		distanza:  7
+
+
+
+
+Top 5 delle parole simili a Ferruccio:
+
+
+	 La parola: Medusa 		distanza:  7
+	 La parola: Garibaldi 		distanza:  8
+	 La parola: Helgoland 		distanza:  8
+	 La parola: Papin 		distanza:  8
+	 La parola: Amalfi 		distanza:  8
+
+
+2.34622693062
